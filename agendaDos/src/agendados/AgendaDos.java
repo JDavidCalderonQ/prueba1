@@ -32,6 +32,9 @@ public class AgendaDos extends Application {
      */
     public static void main(String[] args) {
         launch(args);
+        
+        System.out.println("");
+        System.out.println("Hola mundo estoy aprendiendo git");
     }
     
 }
